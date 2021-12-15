@@ -4,9 +4,9 @@ from .base import *
 from .db import SQLITE
 
 
-DEBUG=False
+DEBUG=True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = []
 
 DATABASES = SQLITE
 
