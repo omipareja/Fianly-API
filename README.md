@@ -57,5 +57,8 @@ https://fianly-api.herokuapp.com/swagger/
 
 https://fianly-api.herokuapp.com/
 
+### Usuario De Prueba Autenticacion
+user:JuanManuel123
+password:123456789
 
 
